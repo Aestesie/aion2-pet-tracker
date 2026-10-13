@@ -37,7 +37,7 @@ There's no installer. To remove the tracker, delete the folder.
 
    ![Soul obtained toast](docs/screenshots/soul-loot.png)
 
-3. Press `Ctrl+Shift+M` to switch between the overlay and the settings, where you can change the language, size, color and opacity:
+3. Press `Alt+M` to switch between the overlay and the settings, where you can change the language, size, color and opacity:
 
    ![Settings panel](docs/screenshots/settings.png)
 
@@ -56,7 +56,7 @@ On every map, the list also shows the pets of monsters near you whose area isn't
 
 ## Troubleshooting
 
-**Nothing is detected.** Open the settings with `Ctrl+Shift+M` and click **Diagnose network**. Keep playing while it runs: it listens on every network adapter for 20 seconds and reports where the game traffic is, or why there's none. This helps with VPNs and ping-reduction tools.
+**Nothing is detected.** Open the settings with `Alt+M` and click **Diagnose network**. Keep playing while it runs: it listens on every network adapter for 20 seconds and reports where the game traffic is, or why there's none. This helps with VPNs and ping-reduction tools.
 
 **The progress is wrong.** Log out and back in to resync from the game. If it stays wrong, use **Clear saved pet progress** in the settings, then log in again.
 
