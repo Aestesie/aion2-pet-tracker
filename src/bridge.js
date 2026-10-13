@@ -6,7 +6,7 @@ import { register, unregisterAll } from '@tauri-apps/plugin-global-shortcut'
 import { openUrl } from '@tauri-apps/plugin-opener'
 import { DEV_TOOLS } from './devTools'
 
-const MODE_SHORTCUT = 'CommandOrControl+Shift+M'
+const MODE_SHORTCUT = 'Alt+M'
 const TEST_TOAST_SHORTCUT = 'CommandOrControl+Shift+T'
 
 // Must match WINDOW_WIDTH/HEIGHT in main.rs.
